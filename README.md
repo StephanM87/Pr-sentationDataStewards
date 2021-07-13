@@ -1,6 +1,6 @@
 # Vorstellung von Github und Gitlab für nicht Programmierer
 
-## Hier kann man die Dokumentation für Markup hinterlegen um zu wissen wie die Markdown syntax funktioniert
+## Hier kann man die Dokumentation für Markdown hinterlegen um zu wissen wie die Markdown syntax funktioniert
 
 **Markdown Blog** https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
